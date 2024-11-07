@@ -40,7 +40,3 @@ git clone https://github.com/kosesena/Flappy-Bird-Game.git
 **Katkıda Bulunun**
 
 Bu projeye katkıda bulunmak isterseniz, bir pull request açabilir veya hata bildiriminde bulunabilirsiniz.
-
-**Lisans**
-
-Bu proje **MIT** Lisansı altında lisanslanmıştır. Daha fazla bilgi için **LICENSE** dosyasına bakabilirsiniz.
