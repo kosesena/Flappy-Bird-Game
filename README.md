@@ -1,7 +1,7 @@
 ### Flappy-Bird-Game
 ### Flappy Bird Oyunu
 
-Bu proje, klasik Flappy Bird oyununu temel alan bir oyundur. Oyunda amaç, kuşun boruların arasından geçmesini sağlayarak puan toplamaktır. Oyunu geliştirmek için C# ve Windows Forms kullanılmıştır.
+Bu proje,Nesne Yönelimli Programlama dersinin laboratuvar çalışmasında ödev olarak verilen bir oyunu içermektedir.Görevimiz klasik Flappy Bird oyununu temel alan bir oyun tasarlamaktır.Oyunda amaç, kuşun boruların arasından geçmesini sağlayarak puan toplamaktır. Oyunu geliştirmek için C# ve Windows Forms kullanılmıştır.
 
 Özellikler
 
